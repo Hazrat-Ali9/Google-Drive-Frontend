@@ -19,3 +19,6 @@ module.exports = {
     ],
   },
 }
+
+
+// Plagins added
