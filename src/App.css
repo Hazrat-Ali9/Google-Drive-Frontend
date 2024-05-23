@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-primary {
+    color: whitesmoke;
+}
+
+li .btn-primary:hover {
+    color: whitesmoke;
+    background-color: black;
+    border: 1px black;
+}
+
+
+li .btn:hover {
+    color: whitesmoke;
+    background-color: black;
+    border: 1px black;
+}
+
+.btn-primary:hover {
+    color: whitesmoke;
+    background-color: black;
+    border: 1px black;
+}
+
+.dot {
+    width: 5px;
+    height: 5px;
+    background-color: rgb(57, 57, 57);
+    border-radius: 50%;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.properties li {
+    margin-bottom: 10px;
+}
+
+.properties li p {
+    font-size: 15px;
+}
+
+.properties li p strong {
+    font-size: 15px;
+}
+
+.file-container {
+    /* display: grid;
+    grid-template-columns: repeat(8, 1fr); */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* 
+@media only screen and (max-width: 1300px) {
+    .file-container {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 20px;
+    }
+}
+@media only screen and (max-width: 1100px) {
+    .file-container {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .file-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .file-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+} */
+
+.pc .overlay{
+    display: none;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.pc:hover .overlay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
