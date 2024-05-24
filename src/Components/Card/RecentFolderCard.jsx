@@ -232,3 +232,4 @@ const RecentFolderCard = ({ data }) => {
 };
 
 export default RecentFolderCard;
+// Recent Folder Card 
