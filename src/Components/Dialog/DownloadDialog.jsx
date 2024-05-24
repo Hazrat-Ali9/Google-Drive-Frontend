@@ -96,3 +96,5 @@ export function DownloadDialog({ open, setOpen, selected }) {
         </>
     );
 }
+
+// Download Dialog
