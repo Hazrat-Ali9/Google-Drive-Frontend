@@ -12,3 +12,4 @@ const Avater = ({ height, width, src }) => {
 };
 
 export default Avater;
+// Avater jsx
