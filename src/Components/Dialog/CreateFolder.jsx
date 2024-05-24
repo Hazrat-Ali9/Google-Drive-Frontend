@@ -83,4 +83,4 @@ export function CreateFolder({ open, setOpen }) {
     );
 }
 
-// Create Folder 
+// Create folder 
