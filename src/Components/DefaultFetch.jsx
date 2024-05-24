@@ -1,4 +1,4 @@
-
+// Default Fetch
 import { useEffect } from 'react';
 import Cookie from 'js-cookie';
 import { api } from './axios/api';
