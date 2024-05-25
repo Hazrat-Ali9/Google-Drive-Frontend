@@ -113,3 +113,5 @@ export function DialogWithImage({ path, file }) {
         </>
     );
 }
+
+// Image Diagram 
