@@ -13,3 +13,5 @@ export const store = configureStore({
         search: searchSlice
     },
 });
+
+// Store JS
