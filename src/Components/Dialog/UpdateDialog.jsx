@@ -192,3 +192,5 @@ export default function UpdateDialog({ open, setOpen, user, refetch, mode, setMo
         </>
     );
 }
+
+// Update Dialog
