@@ -25,3 +25,5 @@ export const {
     setShowFileInfo
 } = toolSlice.actions;
 export default toolSlice.reducer
+
+// ToolsSlice
