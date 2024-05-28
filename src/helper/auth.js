@@ -3,3 +3,5 @@ export const logOut = () => {
     Cookie.remove('authToken')
     window.location.href = '/login'
 }
+
+// Auth js
