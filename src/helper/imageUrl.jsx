@@ -11,6 +11,7 @@ export const imageurl = (url) => {
         return 'https://docs.material-tailwind.com/img/face-2.jpg'
     }
 }
+// image URL
 
 // export const imageurl = (url) => {
 //     if (url?.includes("http")) {
