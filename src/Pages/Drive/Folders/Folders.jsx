@@ -229,3 +229,4 @@ const Folders = ({ mode }) => {
 };
 
 export default Folders;
+// Folders jsx
