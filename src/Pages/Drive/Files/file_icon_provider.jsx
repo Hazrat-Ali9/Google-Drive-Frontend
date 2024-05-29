@@ -5,7 +5,7 @@ import txt from "./icons/txt.png";
 import video from "./icons/video.png";
 import zip from "./icons/zip.png";
 import docs from "./icons/docs.png";
-
+// File Icon
 const check = (mimetype, ext) => {
     if (mimetype.includes(ext)) {
         return true
