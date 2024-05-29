@@ -217,3 +217,4 @@ export function FilesTable() {
         </Card>
     );
 }
+// Files Table
