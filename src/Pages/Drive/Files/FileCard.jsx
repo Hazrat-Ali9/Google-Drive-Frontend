@@ -132,3 +132,4 @@ const FileCard = ({ data, refetch, mode, index, onClick, selected }) => {
 };
 
 export default FileCard;
+// File Card
