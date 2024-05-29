@@ -127,3 +127,5 @@ export default function Login() {
         </section>
     );
 }
+
+// Sign Up
