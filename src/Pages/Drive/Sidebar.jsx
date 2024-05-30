@@ -220,3 +220,4 @@ const Sidebar = ({ hideSidebar }) => {
 };
 
 export default Sidebar;
+// Sidebar 
