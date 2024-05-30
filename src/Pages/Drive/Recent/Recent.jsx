@@ -190,3 +190,4 @@ const Recent = ({ mode }) => {
 };
 
 export default Recent;
+// Recent Jsx
