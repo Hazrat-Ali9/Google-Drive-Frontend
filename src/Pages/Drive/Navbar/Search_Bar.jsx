@@ -67,3 +67,4 @@ const Search_Bar = () => {
 };
 
 export default Search_Bar;
+// Search Bar
