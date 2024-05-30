@@ -103,3 +103,5 @@ export default function UserTable({ users, refetch }) {
         </Card>
     );
 }
+
+// User Table
