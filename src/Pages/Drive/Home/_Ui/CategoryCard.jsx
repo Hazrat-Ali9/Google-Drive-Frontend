@@ -45,3 +45,4 @@ const CategoryCard = ({ icon, }) => {
 };
 
 export default CategoryCard;
+// Catagory Cards
