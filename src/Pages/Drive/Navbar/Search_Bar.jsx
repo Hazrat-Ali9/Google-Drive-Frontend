@@ -6,7 +6,7 @@ import { useDispatch } from 'react-redux';
 import { useState } from 'react';
 import { api } from '../../../Components/axios/api';
 import { setFiles, setFolders } from '../../../redux/Slice/searchSlice';
-
+// Search Bar
 const Search_Bar = () => {
     const navigate = useNavigate()
     // write a function that will handle the search
