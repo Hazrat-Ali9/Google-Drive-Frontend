@@ -5,7 +5,7 @@ import RecentFolders from './_SUB/RecentFolders';
 import Files from './_SUB/Files';
 import { FilesTable } from './_SUB/FilesTable';
 
-
+// Home js 
 const Home = () => {
     return (
         <div className='lg:px-5 w-full'>
