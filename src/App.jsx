@@ -3,7 +3,7 @@ import './App.css';
 import { useSelector } from 'react-redux';
 import { Toaster } from 'react-hot-toast';
 import DefaultFetch from './Components/DefaultFetch';
-// import Swiper JS
+// import Swiper Js
 // import Swiper styles
 import 'swiper/css';
 import 'swiper/css/navigation';
