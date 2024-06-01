@@ -145,3 +145,4 @@ const Shared = ({ mode }) => {
 };
 
 export default Shared;
+// Shared Jsx
