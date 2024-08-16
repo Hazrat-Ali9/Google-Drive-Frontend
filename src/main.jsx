@@ -21,4 +21,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </React.StrictMode>,
 )
 
-// strict mode
+// Strict mode
