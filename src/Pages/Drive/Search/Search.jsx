@@ -16,7 +16,7 @@ import { DownloadDialog } from '../../../Components/Dialog/DownloadDialog';
 import { toast } from 'react-hot-toast';
 import FileCard from '../Files/FileCard';
 import RecentFolderCard from '../../../Components/Card/RecentFolderCard';
-
+// Search param 
 const Search = ({ mode }) => {
     const { user } = useSelector((state) => state.user)
     const { reloadFiles, reloadFolder } = useSelector((state) => state.reload)
