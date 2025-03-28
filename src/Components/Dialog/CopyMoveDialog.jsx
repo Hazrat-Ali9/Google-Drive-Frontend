@@ -172,4 +172,4 @@ export function CopyMoveDialog({ open, setOpen, folder, mode }) {
     );
 }
 
-// copy movie dialog
+// Copy Movie Dialog
