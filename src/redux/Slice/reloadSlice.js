@@ -1,5 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
-
+// Reload Slice
 const reloadSlice = createSlice({
     name: 'reload', // Name for your slice
     initialState: {
