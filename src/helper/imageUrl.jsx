@@ -6,7 +6,7 @@ export const imageurl = (url) => {
     }
     else if (url) {
         return `${serverUrl}/${url}`
-    }
+    } // Image Url
     else {
         return 'https://docs.material-tailwind.com/img/face-2.jpg'
     }
