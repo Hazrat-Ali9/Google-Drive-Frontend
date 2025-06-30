@@ -1,6 +1,6 @@
 import { Avatar } from '@material-tailwind/react';
 import React from 'react';
-
+// avater
 const Avater = ({ height, width, src }) => {
     return (
         <div>
