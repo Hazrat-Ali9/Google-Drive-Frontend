@@ -18,4 +18,4 @@ const searchSlice = createSlice({
 export const { setFiles, setFolders } = searchSlice.actions;
 export default searchSlice.reducer
 
-// Seach Slice
+// Search Slice
