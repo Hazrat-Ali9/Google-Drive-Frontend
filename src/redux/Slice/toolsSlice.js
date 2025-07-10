@@ -26,4 +26,4 @@ export const {
 } = toolSlice.actions;
 export default toolSlice.reducer
 
-// ToolsSlice
+// Tools Slice
