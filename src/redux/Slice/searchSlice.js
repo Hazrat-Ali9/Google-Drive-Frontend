@@ -1,5 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
-
+// Search Slice
 const searchSlice = createSlice({
     name: 'search', // Name for your slice
     initialState: {
@@ -18,4 +18,3 @@ const searchSlice = createSlice({
 export const { setFiles, setFolders } = searchSlice.actions;
 export default searchSlice.reducer
 
-// Search Slice
