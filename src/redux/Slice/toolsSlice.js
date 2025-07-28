@@ -1,5 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
-
+// Tools Slice
 const toolSlice = createSlice({
     name: 'tools', // Name for your slice
     initialState: {
@@ -26,4 +26,3 @@ export const {
 } = toolSlice.actions;
 export default toolSlice.reducer
 
-// Tools Slice
