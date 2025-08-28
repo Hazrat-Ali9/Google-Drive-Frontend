@@ -22,4 +22,3 @@ const reloadSlice = createSlice({
 export const { setReloadFiles, setReloadUser,setReloaFolder } = reloadSlice.actions;
 export default reloadSlice.reducer
 
-// Reload Slice
