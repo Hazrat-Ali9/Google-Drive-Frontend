@@ -1,5 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
-// Tools Slice
+// tools slice
 const toolSlice = createSlice({
     name: 'tools', // Name for your slice
     initialState: {
