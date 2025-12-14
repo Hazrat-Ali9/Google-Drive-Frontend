@@ -4,7 +4,7 @@ import reloadSlice from './Slice/reloadSlice';
 import toolsSlice from './Slice/toolsSlice';
 import searchSlice from './Slice/searchSlice';
 
-
+// Store JS
 export const store = configureStore({
     reducer: {
         user: userSlice, // Add your slice reducer to the store
@@ -14,4 +14,4 @@ export const store = configureStore({
     },
 });
 
-// Store JS
+
