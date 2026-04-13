@@ -77,4 +77,4 @@ const Password = () => {
 };
 
 export default Password;
-// Password
+// password
